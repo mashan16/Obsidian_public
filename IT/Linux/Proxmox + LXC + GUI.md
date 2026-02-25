@@ -3,7 +3,7 @@ tags:
   - шаблон
 ---
 [Браузер в контейнере \| Proxmox + LXC + GUI - YouTube](https://www.youtube.com/watch?v=y4QU6KhwwDo)
-
+[[Sudo установка в Debian LXC]]
 
 # Обновляем пакеты и устанавливаем недостающие:
 apt update && apt upgrade -y
