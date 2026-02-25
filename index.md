@@ -5,17 +5,7 @@ title: Public Obsidian storage
 
 Давно себе хотел подобный публичный ресурс где бы я мог поделиться своим опытом в ИТ.
 
-Этот сайт отображает часть моего хранилища [Obsidian](https://obsidian.md) с помощью [Quartz](https://quartz.jzhao.xyz) на использование этого инструмента меня вдохновил [этот ролик](https://www.youtube.com/watch?v=S91lllRmxrg&t=1407s&pp=ygUPcXVhcnR6IG9ic2lkaWFu) на YouTube канале [РадиоСКП](https://www.youtube.com/@skp-radio)
-
-==Сайт находится в активной стадии наполнения и редактирования==
-- 🧠[[AI-(LLM)]] Все что связанно с AI
-- 📱[[Android]]
-- 🐧[[Linux]]
-- 🪟 [[Windows]]
-- 💠[[Obsidian]]
-- 🖥️[[Home Soft]] Список домашнего софта
-- 🎮[[Games fo PC]] Инструкции для игр
-- 🏡[[Life]]  ([[Kanban_Фильмы и сериалы]])
+Этот сайт отображает часть моего хранилища [Obsidian](https://obsidian.md) с помощью [Quartz](https://quartz.jzhao.xyz) на использование этого инструмента меня вдохновил [этот ролик](https://www.youtube.com/watch?v=S91lllRmxrg&t=1407s&pp=ygUPcXVhcnR6IG9ic2lkaWFu) на YouTube канале РадиоСКП.
 
 🎮[Discord](https://discord.gg/pUhrztcx)
 🎬[Youtube](https://www.youtube.com/@xromocom)
