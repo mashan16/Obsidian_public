@@ -7,9 +7,7 @@ title: Public Obsidian storage
 
 Этот сайт отображает часть моего хранилища [Obsidian](https://obsidian.md) с помощью [Quartz](https://quartz.jzhao.xyz) на использование этого инструмента меня вдохновил [этот ролик](https://www.youtube.com/watch?v=S91lllRmxrg&t=1407s&pp=ygUPcXVhcnR6IG9ic2lkaWFu) на YouTube канале РадиоСКП.
 
-- [[IT 🌍]]
-	[[Life 🌍]]
-		[[Obsidian 🌍]]
+- [[IT 🌍]] [[Life 🌍]] [[Obsidian 🌍]]
 
 🎮[Discord](https://discord.gg/pUhrztcx)
 🎬[Youtube](https://www.youtube.com/@xromocom)
