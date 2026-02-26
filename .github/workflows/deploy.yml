@@ -18,7 +18,7 @@ jobs:
         uses: konstfish/quartz-build-action@v7
         with:
           # markdown source folder
-          source: content 
+          source: ../.. # Пусть относительно  
           page_title: "Quartz"
           # page title to be displayed in the browser
           # quartz config files, I like keeping them in my .github folder to reduce clutter
