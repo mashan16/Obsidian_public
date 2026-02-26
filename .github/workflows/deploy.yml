@@ -19,17 +19,17 @@ jobs:
         with:
           # markdown source folder
           source: content 
+          page_title: "Quartz"
           # page title to be displayed in the browser
           # quartz config files, I like keeping them in my .github folder to reduce clutter
           # see https://quartz.jzhao.xyz/configuration & https://quartz.jzhao.xyz/layout respectively
           quartz_config: .github/quartz/quartz.config.ts
           quartz_layout: .github/quartz/quartz.layout.ts
-          # quartz static content
+          #quartz static content
           #quartz_icon: .github/quartz/favicon.png
           #quartz_banner: .github/quartz/og_image.png
           # custom css
-          quartz_custom_css: .github/quartz/custom.scss
-                    page_title: "Quartz"
+          #quartz_custom_css: .github/quartz/custom.scss
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
   deploy:
