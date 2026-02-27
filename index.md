@@ -11,3 +11,4 @@ title: Public Obsidian storage
 
 🎮[Discord](https://discord.gg/pUhrztcx)
 🎬[Youtube](https://www.youtube.com/@xromocom)
+1
