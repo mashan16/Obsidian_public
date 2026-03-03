@@ -45,6 +45,7 @@ tags:
 
 ## Приостановил
 
+- [ ] [[Мэр Кингстауна (2021) 8.2]]
 - [ ] [[Подозрительные лица (1995) 8.5]]
 - [ ] [[Банши (2013) 8.4]]
 - [ ] [[Медленные лошади (2022) 8.3]]
@@ -70,7 +71,6 @@ tags:
 - [x] [[Крайние космос 2016 кп 8.4]]
 - [x] [[Формула  2025 кп 8.2]]
 - [x] [[Дурные деньги 2023 кп 7.0]]
-- [x] [[Мэр Кингстауна кп 7.6]] ✅ 2025-11-10
 - [x] [[Франкенштейн (2025) 7.5]]
 - [x] [[Одна из многих (2025) 8.5]]
 - [x] [[Горничная (2025) 6.8]]
@@ -95,7 +95,6 @@ tags:
 
 **Выполнено**
 - [x] [[Смерть на похоронах кп 7.0]]
-- [x] [[Аэроплан 1980 кп 7.4]]
 - [x] [[Мошенники (Казахи) 2023 кп 8.0]]
 - [x] [[Аэроплан (1980) 7.7]]
 
@@ -104,6 +103,6 @@ tags:
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,true,true,true,true,false],"show-checkboxes":false,"hide-card-count":false,"move-tags":false,"tag-sort":[],"new-card-insertion-method":"prepend-compact","full-list-lane-width":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,true,true,true,false],"show-checkboxes":false,"hide-card-count":false,"move-tags":false,"tag-sort":[],"new-card-insertion-method":"prepend-compact","full-list-lane-width":false}
 ```
 %%
