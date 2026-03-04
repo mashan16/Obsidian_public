@@ -3,7 +3,7 @@ tags:
   - obsidian_заметки
   - public
 ---
-[[Obsidian+Quartz]] Разворачиваем Obsidian в web на своём debian сервере
+[[Quartz+Obsidian]] Разворачиваем Obsidian в web на своём debian сервере
 [Obsidian Web Clipper](https://chromewebstore.google.com/detail/obsidian-web-clipper/cnjifjpddelmedmihgijeibhnjfabmlf?hl=ru) Расширение для браузера для копирования статей с интернета в Obsidian
 [Obsidian+Github вместо Notion: синхронизация, бекап и версионность (3-в-1) / Хабр](https://habr.com/ru/articles/843288/)
 
