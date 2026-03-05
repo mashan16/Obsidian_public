@@ -17,8 +17,6 @@ tags:
 - [ ] [[Мортал Комбат (2021) 6.1]]
 - [ ] [[Охотники за головами (2011) 7.5]]
 - [ ] [[Тронутые (2014) 7]]
-- [ ] [[Экипаж (2012) 7.3]]
-- [ ] [[Элита (2018) 7.1]]
 - [ ] [[Еретик (2024) 7]]
 
 
@@ -32,6 +30,7 @@ tags:
 - [ ] [[Нарко 2015 кп 8.4]]
 - [ ] [[Красавцы (2004) 8.4]]
 - [ ] [[Обмани меня 2009-2011 кп  8.1]]
+- [ ] [[Элита (2018) 7.1]]
 - [ ] [[Первозданная Америка 2023 кп 7.7]]
 - [ ] [[Переходный возраст (2025) 8.1]]
 - [ ] [[Последний танец (2020) 9]]
@@ -65,6 +64,7 @@ tags:
 ## Хороший 7-8
 
 **Выполнено**
+- [x] [[Экипаж (2012) 7.3]]
 - [x] [[Олдбой (2003) 8.3]] @{2026-03-02}
 - [x] [[Скрежет метала 2023 кп 7.3]]
 - [x] [[Жизнь короля 2013 кп 7.9]]
@@ -103,6 +103,6 @@ tags:
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,true,true,true,false],"show-checkboxes":false,"hide-card-count":false,"move-tags":false,"tag-sort":[],"new-card-insertion-method":"prepend-compact","full-list-lane-width":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,true,true,false],"show-checkboxes":false,"hide-card-count":false,"move-tags":false,"tag-sort":[],"new-card-insertion-method":"prepend-compact","full-list-lane-width":false}
 ```
 %%
