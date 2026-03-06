@@ -104,6 +104,6 @@ tags:
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,true,true,true,false],"show-checkboxes":false,"hide-card-count":false,"move-tags":false,"tag-sort":[],"new-card-insertion-method":"prepend-compact","full-list-lane-width":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,true,true,false],"show-checkboxes":false,"hide-card-count":false,"move-tags":false,"tag-sort":[],"new-card-insertion-method":"prepend-compact","full-list-lane-width":false}
 ```
 %%
